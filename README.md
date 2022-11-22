@@ -1,4 +1,4 @@
-# ML for Water Quality Prediction
+# ML for WQ Prediction Project
 
 **PI**: Nicole Barclay (nbarclay@uncc.edu) & Michael Smith (michael.smith@uncc.edu)<br/>
 
